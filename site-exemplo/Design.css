@@ -3,3 +3,12 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
 }
 
+main{
+background-color: white;
+width: 500px;
+margin: auto;
+padding: 10px;
+box-shadow: 3px 3px 5px black;
+
+
+}
